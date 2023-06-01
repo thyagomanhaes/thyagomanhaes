@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a bank in credit area using Python, Azure Databricks and a lot of SQL queries to integration many internal systems.
+- 🔭 I’m currently working on a bank in credit area using Python, Azure Databricks and a lot of SQL queries to communicate many internal systems.
 - 🌱 I’m currently learning FastAPI, Event-Driven Architecture, Docker, Microservices, AWS and Web Scraping
 - 📫 How to reach me: thyago.ufs@gmail.com
 
