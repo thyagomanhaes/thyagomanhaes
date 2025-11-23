@@ -1,8 +1,14 @@
-### Hi there 👋
+### Hi there 👋 
+I am a passionate Data Engineer with over 8 years of experience turning raw data into meaningful insights. I work with modern tools like Databricks, PySpark, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. 
+I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
 
-- 🔭 I’m currently working on a bank in the credit area using Python, Azure Databricks, and Google BigQuery, writing complex SQL queries for data pipelines and applications.
+
+- 🔭 I’m a Data Engineer
+
+- 🔭 I’m currently working on a bank in the credit area using Python, SQL, DBT, databricks, Google BigQuery, 
 - 🌱 I’m currently learning data engineering, Google GCP, databricks and anything related to data skills.
 - 📫 How to reach me: thyago.ufs@gmail.com
+- Linkedin: https://www.linkedin.com/in/thyago-manhaes/
 
 ### Tech
 
